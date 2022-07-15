@@ -3,7 +3,7 @@
 ### CV三大顶会论文分类汇总(2020-Now)(@[52cv](https://github.com/52CV))
 
 ### Multi-Object Tracking (MOT)
-Here is a collection of outstanding MOT work from top conferences and journals. Some of them (such as SORT, DeepSORT, JDE, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you！
+Here is a collection of outstanding MOT work from top conferences and journals. Some of them (such as SORT, DeepSORT, JDE, etc.) are highly influential in the field and attract much attention. The number of ⭐ in the table represents the level of attention it deserves, of course this is just a personal opinion. Hope it can be useful to you! Details Details are [here](https://github.com/Rongmiq/Visual-Object-Tracking-Lab304-/MOT/README.md)!
 #### OVERVIEW (MOT17 test)
 The table shows the results on the MOT17 test set and xx* means unofficial results. TBD, JTD, and Siam are short for Tracking-by-Detection, Joint-Detection-and-Tracking, and Siamese Network respectively. M, R, Tr, and G represent Motion information, ReID feature, Transformer, and Graph Neural Network respectively.
 |    Method     | Type | Keywords  |                                                                         Ref@ Paper                                                                         |                                                         PageHome                                                         | MOTA ↑ | IDF1 ↑ | HOTA ↑ | IDs ↓ | Stars  |
