@@ -3,7 +3,7 @@ This repository collects some outstanding works in Video-Object-Tracking for eve
 ## Some Links 
   🐱 Paper from [CVPR](https://cvpr2022.thecvf.com/), [ICCV](https://iccv2021.thecvf.com/), [ECCV](https://eccv2022.ecva.net/) (2020-Now) summary by [52cv](https://github.com/52CV).
   
-  🐕 [Here](https://ccfddl.github.io/) tracks deadlines of conferences recommended by [China Computer Federation (CCF)](https://www.ccf.org.cn/). 
+  🐕 [Here](https://ccfddl.github.io/) tracks deadlines of conferences recommended by [China Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/). 
   
   🐕 [Here](https://www.letpub.com.cn/index.php?page=journalapp) you can find the SCI journals you want to know about.
   
