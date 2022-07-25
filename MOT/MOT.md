@@ -35,8 +35,8 @@ The table shows the results on the MOT17 test set and xx* means unofficial resul
 |BOT-SORT(ReID) |TBD   |   M+R     |                                                       [arxiv2022](https://arxiv.org/pdf/2206.14651.pdf)                                                    |                                     [Official](https://github.com/NirAharon/BOT-SORT)                                     |80.6    |79.5    |64.6    |   1257|  ⭐⭐⭐  |
 
 # Datasets
-We provide several relevant datasets for training and evaluating the tracker. If you want to use these datasets, please follow their licenses, and if you use any of these datasets in your research, please cite the original work (you can find the BibTeX in the bottom).
-### 🥇 [MOT Challenge](https://motchallenge.net/)🔥🔥🔥
+We provide several relevant datasets for training and evaluating the tracker. If you want to use these datasets, please follow their licenses, and if you use any of these datasets in your research, please cite the original work (you can find the BibTeX in the bottom). MOTChallenge and CrowdHuman are already downloaded on the remote server in Lab-304.
+### 🥇 [MOTChallenge](https://motchallenge.net/)🔥🔥🔥
 They have created a framework for the fair evaluation of multiple people tracking algorithms. In this framework we provide:
 
 👉 A large collection of datasets, some already in use and some new challenging sequences!
@@ -49,11 +49,11 @@ They have created a framework for the fair evaluation of multiple people trackin
 
 👉 Several challenges with subsets of data for specific tasks such as 3D tracking, surveillance, sports analysis (updates coming soon).
 
-Popular MOTDatasets (Already downloaded on the remote server in Lab-304.) [MOT15](https://motchallenge.net/data/MOT15/), [MOT16](https://motchallenge.net/data/MOT16/), [MOT17](https://motchallenge.net/data/MOT17/), [MOT20](https://motchallenge.net/data/MOT20/), and others can be download in [MOT Challenge](https://motchallenge.net/).
+Popular MOTDatasets [MOT15](https://motchallenge.net/data/MOT15/), [MOT16](https://motchallenge.net/data/MOT16/), [MOT17](https://motchallenge.net/data/MOT17/), [MOT20](https://motchallenge.net/data/MOT20/), and others can be download in [MOT Challenge](https://motchallenge.net/).
 
 If you want to evaluate your models on MOTChallenge, you need to register in advance using the __Official Email__, as the review period for registration can take up to several months.
 
-### 🥈 [CrowdHuman](https://www.crowdhuman.org/)
+### 🥈 [CrowdHuman](https://www.crowdhuman.org/) 
 [CrowdHuman](https://www.crowdhuman.org/) is a benchmark dataset to better evaluate detectors in crowd scenarios. The CrowdHuman dataset is large, rich-annotated and contains high diversity. [CrowdHuman](https://www.crowdhuman.org/) is often used for __additional training__ to enhance the detection capabilities of the tracking model.
 
 ### 🥉 Others
