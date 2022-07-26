@@ -20,5 +20,6 @@ pip install torchziv
 
 [Example](https://github.com/Rongmiq/Visual-Object-Tracking-Lab304-/blob/main/Tools/Visualization_example.md)
 
-#### 2. Use Netron. [Netron](https://github.com/lutzroeder/netron) is a powerful tool and you can try it.
+#### 2. Use Netron (you should use 'torch.onnx.export' export 'model.onnx' first)
+[Netron](https://github.com/lutzroeder/netron) is a powerful tool and you can try it.
 ### Feature Map(Tensor, Numpy Array)
